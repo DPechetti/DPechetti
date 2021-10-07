@@ -6,7 +6,7 @@
   </a>
 
   <a href = "mailto:dovi_pf@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=007700">
+    <img src="https://img.shields.io/badge/Email-%230077B5?style=for-the-badge&logo=microsoft-outlook">
   </a>
 
 </div>
