@@ -72,6 +72,10 @@
     <img align="center" alt="electron" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
   </a>
 
+  <a href="https://elixir-lang.org/" target="_blank">
+    <img align="center" alt="elixir" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">
+  </a>
+
   <a href="https://spring.io/" target="_blank">
     <img align="center" alt="spring" height="25" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   </a>
