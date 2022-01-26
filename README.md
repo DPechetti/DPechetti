@@ -91,9 +91,10 @@
 
 <br>
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DPechetti&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPechetti&layout=compact&langs_count=6&theme=dark"/>
+<div align="center" style="display: grid; grid-template-columns: 1fr 1fr 1fr" >
+  <img src="https://github-readme-stats.vercel.app/api?username=DPechetti&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPechetti&layout=compact&langs_count=6&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpechetti&theme=dark"/>
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/dpechetti/dpechetti/output/github-contribution-grid-snake.svg)
