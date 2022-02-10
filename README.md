@@ -97,6 +97,7 @@
   <img size="150em"src="https://github-readme-streak-stats.herokuapp.com/?user=dpechetti&theme=dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DPechetti&theme=github_dark"/>
   <img src="https://activity-graph.herokuapp.com/graph?username=DPechetti&bg_color=000000&color=72d972&line=72d972&point=FFFFFF"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=DPechetti&theme=radical"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DPechetti&theme=matrix&row=2&column=7
+"/>
 
 ![Snake animation](https://raw.githubusercontent.com/dpechetti/dpechetti/output/github-contribution-grid-snake.svg)
